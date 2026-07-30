@@ -14,26 +14,26 @@
 ## 💫 About Me
 
 ```yaml
-name: Vinay Chandra Nayak
-role: Computer Science Undergraduate
-focus:
+Name: Vinay Chandra Nayak
+Role: Computer Science Undergraduate
+Focus:
   - Software Development
   - Artificial Intelligence
   - Open Source
 
-currently:
+Currently:
   - 🚀 AI Intern @ FlyRank AI
   - 🎓 Campus Mantri @ GeeksforGeeks
   - 🌍 Contributor @ GirlScript Summer of Code 2026
 
-interests:
+Interests:
   - Full-Stack Web Development
   - Prompt Engineering
   - Python, Java & C++
   - Discord Bot Development
   - Problem Solving & DSA
 
-philosophy: "Continuous learning, meaningful impact."
+Philosophy: "Continuous learning, meaningful impact."
 ```
 <br/>
 🌐 Connect With Me
