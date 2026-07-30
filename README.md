@@ -136,6 +136,12 @@ NOW ───────── Building AI Products 🚀
 
 ---
 
+# 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+</p>
+
 # 🐍 Snake Animation
 
 <div align="center">
