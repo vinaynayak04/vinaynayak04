@@ -1,60 +1,128 @@
+
+# 👋 Hi, I'm Vinay Chandra Nayak
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Hi%20There,%20I'm%20Vinay%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20code&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Vinay%20Chandra%20Nayak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+%7C+Full-Stack+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=AI+Intern+%40+FlyRank+AI;Campus+Mantri+%40+GeeksforGeeks;GirlScript+Summer+of+Code+2026;Building+Products+That+Matter"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=vinaynayak04&style=for-the-badge&color=6366F1" />
-<img src="https://img.shields.io/github/followers/vinaynayak04?style=for-the-badge&color=EC4899" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=vinaynayak04&style=for-the-badge&color=6366F1"/>
+<img src="https://img.shields.io/github/followers/vinaynayak04?style=for-the-badge&color=EC4899"/>
 
 </div>
 
-## 💫 About Me
+---
 
-```yaml
-Name: Vinay Chandra Nayak
-Role: Computer Science Undergraduate
-Focus:
-  - Software Development
-  - Artificial Intelligence
-  - Open Source
+# 💫 About Me
 
-Currently:
-  - 🚀 AI Intern @ FlyRank AI
-  - 🎓 Campus Mantri @ GeeksforGeeks
-  - 🌍 Contributor @ GirlScript Summer of Code 2026
+- 🎓 B.Tech Computer Science Undergraduate
+- 🚀 AI Intern @ FlyRank AI
+- 🎓 Campus Mantri @ GeeksforGeeks
+- 🌍 Contributor @ GirlScript Summer of Code 2026
+- 💡 Passionate about AI, Full-Stack Development & Open Source
+- 🌱 Currently learning System Design, DSA & LLM Engineering
 
-Interests:
-  - Full-Stack Web Development
-  - Prompt Engineering
-  - Python, Java & C++
-  - Discord Bot Development
-  - Problem Solving & DSA
+---
 
-Philosophy: "Continuous learning, meaningful impact."
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 InternPool | AI-powered internship platform connecting students and recruiters |
+| 🎨 SketchSock | Real-time drawing & guessing multiplayer game |
+| 🌾 Rural Healthcare | Telemedicine platform for rural communities |
+| 🌐 Portfolio | Personal developer portfolio |
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinaynayak04&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynayak04&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=vinaynayak04&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynayak04&theme=tokyo-night&area=true"/>
+
+---
+
+# 🐍 Snake Animation
+
+> Enable GitHub Actions in your profile repository for this to work.
+
+```text
+.github/workflows/snake.yml
 ```
-<br/>
-🌐 Connect With Me
-<div align="center"> <a href="https://instagram.com/code.vinay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://linkedin.com/in/vinaychandranayak004"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://reddit.com/user/vinaynayak004"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a> <a href="https://x.com/amvinayy"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> <a href="https://youtube.com/@lifestylewithvinay"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a> <a href="mailto:askvinayy06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </div> <br/>
-💻 Tech Stack
-<div align="center"> <p><b>Languages</b></p> <p> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> </p> <p><b>Frontend</b></p> <p> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> </p> <p><b>Backend & APIs</b></p> <p> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"/> <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/> </p> <p><b>Databases</b></p> <p> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/> </p> <p><b>Cloud & DevOps</b></p> <p> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </p> <p><b>Tools & Version Control</b></p> <p> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/> </p> <p><b>Data & Design</b></p> <p> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/> </p> </div> <br/>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.shion.dev/api?username=vinaynayak04&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/> <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinaynayak04&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> <img src="https://streak-stats.demolab.com/?user=vinaynayak04&theme=cobalt&hide_border=false" alt="GitHub Streak"/> </div> <br/>
-📈 Contribution Graph (Animated)
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynayak04&theme=react-dark&hide_border=false&area=true" width="100%"/> </div> <br/>
-🐍 Snake Animation
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaynayak04/vinaynayak04/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaynayak04/vinaynayak04/output/github-contribution-grid-snake.svg"> <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/vinaynayak04/vinaynayak04/output/github-contribution-grid-snake.svg"> </picture> </div>
 
-This won't render until you complete the 2-step setup below — GitHub needs to generate the SVG first.
+---
 
-<br/>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vinaynayak04&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/> </div> <br/>
-✍️ Random Dev Quote
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"/> </div> <br/>
-🔝 Top Contributed Repo
-<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=vinaynayak04&limit=5&theme=dark&combine_all_yearly_contributions=true"/> </div> <br/>
-🤝 Support Me
-<div align="center"> <a href="https://www.buymeacoffee.com/vinaynayak04"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/> <!-- Proudly enhanced with GPRM ( https://gprm.itsvg.in ) + readme-typing-svg + capsule-render -->
+# 🏆 Achievements
+
+- 🚀 AI Intern @ FlyRank AI
+- 🎓 Campus Mantri @ GeeksforGeeks
+- 🌍 GSSoC 2026 Contributor
+- 💻 Full Stack Developer
+- 🤖 AI Enthusiast
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vinaychandranayak004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://instagram.com/code.vinay"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/amvinayy"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/></a>
+<a href="https://youtube.com/@lifestylewithvinay"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/></a>
+<a href="mailto:askvinayy06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🌱 2026 Goals
+
+- ✅ Build impactful AI products
+- ✅ Contribute to Open Source
+- ✅ Crack a top internship
+- ✅ Grow InternPool
+- ✅ Master DSA & System Design
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer"/>
+
+</div>
