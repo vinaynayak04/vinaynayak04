@@ -10,23 +10,31 @@
 </p>
 
 </div>
-💫 About Me
-yaml
+
+## 💫 About Me
+
+```yaml
 name: Vinay Chandra Nayak
 role: Computer Science Undergraduate
-focus: [Software Development, Artificial Intelligence, Open Source]
+focus:
+  - Software Development
+  - Artificial Intelligence
+  - Open Source
+
 currently:
-  - "🚀 AI Intern @ FlyRank AI"
-  - "🎓 Campus Mantri @ GeeksforGeeks"
-  - "🌍 Contributor @ GirlScript Summer of Code 2026"
+  - 🚀 AI Intern @ FlyRank AI
+  - 🎓 Campus Mantri @ GeeksforGeeks
+  - 🌍 Contributor @ GirlScript Summer of Code 2026
+
 interests:
-  - "Full-Stack Web Development"
-  - "Prompt Engineering"
-  - "Python, Java & C++"
-  - "Discord Bot Development"
-  - "Problem Solving & DSA"
-  - "Open Source"
+  - Full-Stack Web Development
+  - Prompt Engineering
+  - Python, Java & C++
+  - Discord Bot Development
+  - Problem Solving & DSA
+
 philosophy: "Continuous learning, meaningful impact."
+```
 <br/>
 🌐 Connect With Me
 <div align="center"> <a href="https://instagram.com/code.vinay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="https://linkedin.com/in/vinaychandranayak004"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://reddit.com/user/vinaynayak004"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a> <a href="https://x.com/amvinayy"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> <a href="https://youtube.com/@lifestylewithvinay"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a> <a href="mailto:askvinayy06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </div> <br/>
