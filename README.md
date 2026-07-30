@@ -1,4 +1,15 @@
-<div align="center"> <!-- Animated wave banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Vinay%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20with%20code,%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/> <!-- Typing animation --> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Computer+Science+Undergraduate;AI+%26+Full-Stack+Enthusiast;Open+Source+Contributor;Always+Learning%2C+Always+Building" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=vinaynayak04&icon=2&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> <a href="https://github.com/vinaynayak04?tab=followers"><img src="https://img.shields.io/github/followers/vinaynayak04?label=Followers&style=for-the-badge&color=EC4899" alt="GitHub followers"/></a> </div> <br/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Hi%20There,%20I'm%20Vinay%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20code&descAlignY=60&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+%7C+Full-Stack+Developer;Open+Source+Contributor"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=vinaynayak04&style=for-the-badge&color=6366F1" />
+<img src="https://img.shields.io/github/followers/vinaynayak04?style=for-the-badge&color=EC4899" />
+</p>
+
+</div>
 💫 About Me
 yaml
 name: Vinay Chandra Nayak
